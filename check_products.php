@@ -23,4 +23,8 @@
     curl_close($ch);
     var_dump(curl_error($ch));
     echo $server_data;
-        
+ ?>
+
+<script>
+    console.log('hi');
+</script>
